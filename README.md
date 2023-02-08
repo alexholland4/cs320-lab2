@@ -1,2 +1,2 @@
 # cs320-lab2
-testssh connection
+testing ssh connection
